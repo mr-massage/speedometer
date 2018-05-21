@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>modules/fuel/fuel.qml</file>
+        <file>modules/menu/menu.qml</file>
+        <file>modules/speedmeter/speedmeter.qml</file>
+        <file>modules/start/start.qml</file>
+        <file>modules/temprature/temprature.qml</file>
+        <file>src/cpp/main.cpp</file>
+        <file>src/icons/cancel.png</file>
+        <file>src/icons/chooseimage.png</file>
+        <file>src/icons/compact_camera.png</file>
+        <file>src/icons/crouse.png</file>
+        <file>src/icons/edit.png</file>
+        <file>src/icons/edituser.png</file>
+        <file>src/icons/eye.png</file>
+        <file>src/icons/hand.png</file>
+        <file>src/icons/insert.png</file>
+        <file>src/icons/leftarrow.png</file>
+        <file>src/icons/Logo.png</file>
+        <file>src/icons/moderator.png</file>
+        <file>src/icons/play.png</file>
+        <file>src/icons/plus.png</file>
+        <file>src/icons/return.png</file>
+        <file>src/icons/rightarrow.png</file>
+        <file>src/icons/setting.png</file>
+        <file>src/java/javascriptCode.js</file>
+        <file>src/qml/main.qml</file>
+        <file>src/qml/qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
